@@ -1,6 +1,5 @@
 # A Barebones Blogging Scaffold with React and Tailwind
 
----
 
 ## What?
 
@@ -12,7 +11,6 @@ and [Markdown](https://www.markdownguide.org/).
 Since the code is very simple and was tailored to my personal needs, I expect it'll
 mostly be useful for educational purposes.
 
----
 ## Why?
 
 I wanted to start a blog, but didn't want to use an existing platform
@@ -29,7 +27,6 @@ front-end apps using mostly [Angular](https://angular.dev/) and [Bootstrap](http
 [The very first article](https://yellow-cliff-04a5c980f.7.azurestaticapps.net/articles/using-vanilla-react-as-a-micro-blogging-platform) 
 on the blog goes into this topic in more detail.
 
----
 
 ## How?
 
@@ -37,7 +34,6 @@ You'll need to have [NodeJs](https://nodejs.org/en) installed. After cloning thi
 simply run `npm install` and you should be able to run the site locally
 with `npm run dev`.
 
----
 
 ## Authoring Articles
 
@@ -72,7 +68,6 @@ private readonly _articles: ArticleRecord[] = [
    the home page, as well as in the article index, and it should be available
    via a unique URL: `/articles/newest-article`.
 
----
 
 ## Libraries & Tools Used
 
@@ -88,7 +83,6 @@ I feel it's fair and useful to list them here, in no particular order:
 - [React Markdown](https://github.com/remarkjs/react-markdown)
 - [React Feather Icons](https://www.npmjs.com/package/react-feather)
 
----
 
 ## Publishing
 
@@ -102,7 +96,6 @@ Doing it this way would also allow you to use simple branching to work on
 articles or other changes you want to preview but not neccessarily publish
 immediately.
 
----
 
 ## Future Updates
 
