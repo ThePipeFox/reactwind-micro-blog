@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300..700;1,300..700&family=Epilogue:ital,wght@0,100..900;1,100..900&family=Gelasio:ital,wght@0,400..700;1,400..700&family=Unica+One&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --default-font-family: "Gelasio", serif;
+    --color-body-default: #4a4a4a;
+    --color-green-primary: #12A843;
+    --color-gray-backdrop: #dde7ef;
+    --color-emerald-green: #50C878;
+    --color-body-dark: #06130B;
+    --color-body-light: #E2F6E6;
+    --color-emerald-green-emphasis: #329F56;
+    --color-purple-accent: #3643ba;
+    --color-body-medium: #808080;
+    --font-logo: "Unica One", sans-serif;
+    --font-serif: "Epilogue", sans-serif
+}
