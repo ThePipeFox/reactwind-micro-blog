@@ -3,7 +3,7 @@
 
 ## What?
 
-This is the source code for [my personal blog](https://yellow-cliff-04a5c980f.7.azurestaticapps.net/) 
+This is the source code for [my personal blog](https://www.afoxyblog.com) 
 with all the artwork and other proprietary stuff removed. It allows you to run a **very** barebones blogging
 site provided you have a basic understanding of [React](https://react.dev/), 
 [HTML / CSS](https://www.w3schools.com/htmlcss/), [Tailwind](https://tailwindcss.com/) 
@@ -24,7 +24,7 @@ end up with something that's usable and easy to update (in my opinion at least).
 I also wanted to learn React and step out of my comfort zone of developing
 front-end apps using mostly [Angular](https://angular.dev/) and [Bootstrap](https://getbootstrap.com/).
 
-[The very first article](https://yellow-cliff-04a5c980f.7.azurestaticapps.net/articles/using-vanilla-react-as-a-micro-blogging-platform) 
+[The very first article](https://www.afoxyblog.com/articles/using-vanilla-react-as-a-micro-blogging-platform) 
 on the blog goes into this topic in more detail.
 
 
